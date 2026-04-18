@@ -1,0 +1,84 @@
+{
+  "name": "ST",
+  "short_name": "ST",
+  "id": "com.sonictameshiandroid.aaronthecarter.github.ioslashhome.html",
+  "description": "An example of a basic platformer (Mario-like) game. Jump around and collect as many coins as you can!",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "29dae5d43ef3878273c1671018874a344ba70f9f53c92c121b98c31522cb976a-ios-icon-20.png.png",
+        "sizes": "20x20"
+      },{
+        "src": "ff9ecaa16b2a88766261082c0313dbf637a8cf55aac905e6fd41cdc9520a211a-ios-icon-29.png.png",
+        "sizes": "29x29"
+      },{
+        "src": "cac17421894813c48956a930e9f0ab9bcbc0d746b03cddae3bf37bf45c39be5b-android-icon-36.png.png",
+        "sizes": "36x36"
+      },{
+        "src": "1ee51c6b26566c7c5cf55f7f42a4fbfe7be8bfae9210c478106d55a141b0bb7d-ios-icon-40.png.png",
+        "sizes": "40x40"
+      },{
+        "src": "6d0e6a8803f118a52bd8f8646113c60daba70077dea84fa9309dacf5c152d691-android-icon-48.png.png",
+        "sizes": "48x48"
+      },{
+        "src": "e7322cf4e06262a10d48aca341a8d2aa3c3c8d035a051f714d368a3ddce5df11-ios-icon-50.png.png",
+        "sizes": "50x50"
+      },{
+        "src": "585023786bc68c53fa247a1112f7f110ba4827a1df77848b9be4e2754bac999c-ios-icon-57.png.png",
+        "sizes": "57x57"
+      },{
+        "src": "c1aedbb858d94af04714c5f5ef26c00e833cd6dda5472cd4c16d5191b412b6ea-ios-icon-58.png.png",
+        "sizes": "58x58"
+      },{
+        "src": "74570bee4ea680a563d30d07b927065d58d5ccbb599bccce43ae1097c76acdbc-ios-icon-60.png.png",
+        "sizes": "60x60"
+      },{
+        "src": "649ca2b4e29b701214b5cbb29355d7609bc8a8e7da479c076ae89fc072d24338-android-icon-72.png.png",
+        "sizes": "72x72"
+      },{
+        "src": "297ffe747f60075a420fe15146a174c8d1d2888504141b10d6009c159be06c99-ios-icon-76.png.png",
+        "sizes": "76x76"
+      },{
+        "src": "5db01c147f29aa29535085da8fcc83bfd449ef1fe0255a3056e40f7dcd28dda4-ios-icon-80.png.png",
+        "sizes": "80x80"
+      },{
+        "src": "762b42b76c13599e3acee23f9c530e25f61d5885c92f9bf44ec4f99a7f362a12-ios-icon-87.png.png",
+        "sizes": "87x87"
+      },{
+        "src": "a7196b0504ed96ef43d012881fc370d4fb56e58a359a48fbb10ebaa1b6869652-android-icon-96.png.png",
+        "sizes": "96x96"
+      },{
+        "src": "023d95fb5ea5b4617f23b0d438c0b87f5a51e024104faeeb2a59bd247f923116-ios-icon-100.png.png",
+        "sizes": "100x100"
+      },{
+        "src": "1ba5af35b2c3b5205fe304da755feaf923bcf186363be1f6f135bc6c02caac6a-ios-icon-114.png.png",
+        "sizes": "114x114"
+      },{
+        "src": "636c3cfc886b98e7d6baad1a54a766f434f6da47361e9681eb6854546382c0ec-ios-icon-120.png.png",
+        "sizes": "120x120"
+      },{
+        "src": "1f10cfc9b757772aaeba9e51edc7242ff9bc86e3f8d7be2d6d803e89567a6f94-android-icon-144.png.png",
+        "sizes": "144x144"
+      },{
+        "src": "d832c804b45ef64813b93c606d53a529424e9c0d65aa7a11ac2a4c3f86789601-ios-icon-152.png.png",
+        "sizes": "152x152"
+      },{
+        "src": "0ea09e3a86616fe658a59c09a3e0f7eb8abc0de95c80a324a35b4a1148b85c42-ios-icon-167.png.png",
+        "sizes": "167x167"
+      },{
+        "src": "539c9b0d6663372889524bfe1c05294815df3d8a5c9a44d58409b011aa8dfab5-ios-icon-180.png.png",
+        "sizes": "180x180"
+      },{
+        "src": "9a2bd464779b76638cd7184f11e289b7f2ef8c9ae96e787422cee4979f847240-android-icon-192.png.png",
+        "sizes": "192x192"
+      },{
+        "src": "28d4bafd44aeaa7b1b9288fb8cfdd9cddae528d2163313dde56767bd732739d1-desktop-icon-512.png.png",
+        "sizes": "512x512"
+      },{
+        "src": "a23af4808542d21b355f7e344a4e4cedf5cf5728736f39d29444cd724de38bcf-ios-icon-1024.png.png",
+        "sizes": "1024x1024"
+      }]
+}
